@@ -3,4 +3,4 @@ AB
 
 ## Overview
 
--Inicializando o prrojeto
+-Inicializando o projeto
